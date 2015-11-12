@@ -4,5 +4,5 @@
 * [Reading List Deep Learning](http://deeplearning.net/reading-list/)
 * [pixie-lang/pixie GitHub](https://github.com/pixie-lang/pixie)
 * [hylang/hy GitHub](https://github.com/hylang/hy)
-* [TensorFlow](http://www.tensorflow.org/tutorials/seq2seq/index.md)
+* [TensorFlow](http://www.tensorflow.org)
 * [Programmer Competency Matrix | Sijin JosephSijin Joseph](http://sijinjoseph.com/programmer-competency-matrix/)
