@@ -9,7 +9,7 @@
 * [blue-yonder/pyscaffold GitHub](http://Github.com/blue-yonder/pyscaffold)
 * [HIPS/autograd GitHub](http://GitHub.com/HIPS/autograd)
 * [Mastering Django - The NEW Django Book](http://Masteringdjango.com/django-book)
-* [404 Not Found](http://Aboumrad.info/essential-Python-tools-quality.html)
+* [aboumrad.info](http://aboumrad.info/essential-python-tools-quality.html)
 * [quantopian/pyfolio GitHub](http://GitHub.com/quantopian/pyfolio)
 * [iogf/vy GitHub](http://GitHub.com/iogf/vy)
 * [icgood/continuous-docs GitHub](http://GitHub.com/icgood/continuous-docs)
