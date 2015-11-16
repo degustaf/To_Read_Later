@@ -13,3 +13,4 @@
 * [quantopian/pyfolio GitHub](http://GitHub.com/quantopian/pyfolio)
 * [iogf/vy GitHub](http://GitHub.com/iogf/vy)
 * [icgood/continuous-docs GitHub](http://GitHub.com/icgood/continuous-docs)
+* [Reaction Diffusion Simulation Python recipes ActiveState Code](http://code.activestate.com/recipes/579114-reaction-diffusion-simulation/)
