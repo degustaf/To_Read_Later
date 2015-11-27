@@ -15,3 +15,9 @@
 * [icgood/continuous-docs GitHub](http://GitHub.com/icgood/continuous-docs)
 * [Reaction Diffusion Simulation Python recipes ActiveState Code](http://code.activestate.com/recipes/579114-reaction-diffusion-simulation/)
 * [Wybiral: Visualizing popular machine learning algorithms](http://davywybiral.blogspot.com/2015/10/visualizing-popular-machine-learning.html)
+* https://github.com/jamesob/desk
+* https://github.com/serge-sans-paille/pythran
+* https://github.com/cfelde/cljs4excel
+* https://github.com/tholman/github-corners
+* https://github.com/edwardtufte/tufte-css
+* https://github.com/prodicus/xkcd-dl
