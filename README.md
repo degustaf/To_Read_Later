@@ -21,3 +21,9 @@
 * https://github.com/tholman/github-corners
 * https://github.com/edwardtufte/tufte-css
 * https://github.com/prodicus/xkcd-dl
+* https://github.com/google/skflow
+* https://github.com/feross/magickeyboard.io
+* https://github.com/golang/term
+* https://github.com/spinnaker/spinnaker
+* https://github.com/ghadishayban/pex
+* https://github.com/codrops/MultiLevelMenu
