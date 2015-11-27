@@ -27,3 +27,6 @@
 * https://github.com/spinnaker/spinnaker
 * https://github.com/ghadishayban/pex
 * https://github.com/codrops/MultiLevelMenu
+* http://suewonjp.github.io/civilizer/
+* https://github.com/facebook/mention-bot
+* https://github.com/stamparm/DSVW
