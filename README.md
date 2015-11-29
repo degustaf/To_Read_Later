@@ -30,3 +30,4 @@
 * http://suewonjp.github.io/civilizer/
 * https://github.com/facebook/mention-bot
 * https://github.com/stamparm/DSVW
+* https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.262hp8fgt
