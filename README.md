@@ -34,3 +34,4 @@
 * [Gray Hat Python: Python Programming for Hackers and Reverse Engineers: 9781593271923: Computer Science Books @ Amazon.com](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=asap_bc?ie=UTF8)
 * [Black Hat Python: Python Programming for Hackers and Pentesters: Justin Seitz: 9781593275907: Amazon.com: Books](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asap_bc?ie=UTF8)
 * https://github.com/pybee/paying-the-piper
+* http://docs.python-guide.org/en/latest/
