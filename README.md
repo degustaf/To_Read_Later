@@ -35,3 +35,4 @@
 * [Black Hat Python: Python Programming for Hackers and Pentesters: Justin Seitz: 9781593275907: Amazon.com: Books](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asap_bc?ie=UTF8)
 * https://github.com/pybee/paying-the-piper
 * http://docs.python-guide.org/en/latest/
+* https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
