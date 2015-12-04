@@ -36,3 +36,4 @@
 * https://github.com/pybee/paying-the-piper
 * http://docs.python-guide.org/en/latest/
 * https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
+* https://godjango.com/blog/django-abstract-base-class-model-inheritance/
