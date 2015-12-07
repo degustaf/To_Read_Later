@@ -38,3 +38,4 @@
 * https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
 * https://godjango.com/blog/django-abstract-base-class-model-inheritance/
 * https://opbeat.com/events/duth/
+* https://ses4j.github.io/2015/11/23/optimizing-slow-django-rest-framework-performance/
