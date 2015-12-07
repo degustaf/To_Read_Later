@@ -40,4 +40,4 @@
 * https://opbeat.com/events/duth/
 * https://ses4j.github.io/2015/11/23/optimizing-slow-django-rest-framework-performance/
 * http://pycoders.us4.list-manage.com/track/click?u=9735795484d2e4c204da82a29&id=7a9c750587&e=2caad9df1b
-* 
+* http://pycoders.us4.list-manage.com/track/click?u=9735795484d2e4c204da82a29&id=24af02bba9&e=2caad9df1b
