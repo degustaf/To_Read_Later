@@ -48,3 +48,8 @@
 * https://github.com/karpathy/arxiv-sanity-preserver
 * https://github.com/maruel/panicparse
 * https://github.com/iondbproject/iondb
+* https://medium.com/packt-publishing/how-to-be-like-steve-ballmer-cf4c9803d74c#.g45vemxh6
+* https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83#.jmodn3iul
+* https://letsencrypt.org/2015/12/03/entering-public-beta.html
+* http://venturebeat.com/2015/11/27/5-open-source-alternatives-to-slack/
+* https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html
