@@ -53,3 +53,5 @@
 * https://letsencrypt.org/2015/12/03/entering-public-beta.html
 * http://venturebeat.com/2015/11/27/5-open-source-alternatives-to-slack/
 * https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html
+* https://github.com/riolet/ritchie
+* https://github.com/zero-db/zerodb
