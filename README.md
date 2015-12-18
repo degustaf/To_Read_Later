@@ -55,3 +55,4 @@
 * https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html
 * https://github.com/riolet/ritchie
 * https://github.com/zero-db/zerodb
+* https://github.com/ksimka/go-is-not-good
