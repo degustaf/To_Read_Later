@@ -1,4 +1,4 @@
-## To_Read_Later
+# To_Read_Later
 * [rubik/xenon GitHub](https://github.com/rubik/xenon)
 * [The kernel of the argument over Linuxs vulnerabilities | The Washington Post](http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/)
 * [Reading List Deep Learning](http://deeplearning.net/reading-list/)
@@ -56,3 +56,16 @@
 * https://github.com/riolet/ritchie
 * https://github.com/zero-db/zerodb
 * https://github.com/ksimka/go-is-not-good
+
+##Clojure
+* [GitHub - tpope/vim-fireplace: fireplace.vim: Clojure REPL support](https://github.com/tpope/vim-fireplace)
+* [GitHub - clojure-emacs/refactor-nrepl: nREPL middleware to support refactorings in an editor agnostic way](https://github.com/clojure-emacs/refactor-nrepl)
+
+##VimScript
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Maktaba: A Plugin API by Google](http://usevim.com/2013/12/11/maktaba/)
+* [GitHub - google/vim-maktaba: Consistent Vimscript](https://github.com/google/vim-maktaba)
+* [GitHub - google/vim-codefmt](https://github.com/google/vim-codefmt)
+* [GitHub - google/vroom: Launch vim tests](https://github.com/google/vroom)
+* [GitHub - junegunn/vader.vim: A simple Vimscript test framework](https://github.com/junegunn/vader.vim)
+* [GitHub - LucHermitte/vim-UT: Unit Testing plugin for Vim](https://github.com/luchermitte/vim-ut)
