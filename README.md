@@ -33,29 +33,26 @@
 * [First Timers Only Medium](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.262hp8fgt)
 * [Gray Hat Python: Python Programming for Hackers and Reverse Engineers: 9781593271923: Computer Science Books @ Amazon.com](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=asap_bc?ie=UTF8)
 * [Black Hat Python: Python Programming for Hackers and Pentesters: Justin Seitz: 9781593275907: Amazon.com: Books](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asap_bc?ie=UTF8)
-* https://github.com/pybee/paying-the-piper
-* http://docs.python-guide.org/en/latest/
-* https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
-* https://godjango.com/blog/django-abstract-base-class-model-inheritance/
-* https://opbeat.com/events/duth/
-* https://ses4j.github.io/2015/11/23/optimizing-slow-django-rest-framework-performance/
-* http://pycoders.us4.list-manage.com/track/click?u=9735795484d2e4c204da82a29&id=7a9c750587&e=2caad9df1b
-* http://pycoders.us4.list-manage.com/track/click?u=9735795484d2e4c204da82a29&id=24af02bba9&e=2caad9df1b
-* https://github.com/m0nologuer/AI-reading-list
-* https://github.com/ruma/ruma
-* https://github.com/JFreegman/rustybot
-* https://github.com/pressly/sup
-* https://github.com/karpathy/arxiv-sanity-preserver
-* https://github.com/maruel/panicparse
-* https://github.com/iondbproject/iondb
-* https://medium.com/packt-publishing/how-to-be-like-steve-ballmer-cf4c9803d74c#.g45vemxh6
-* https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83#.jmodn3iul
-* https://letsencrypt.org/2015/12/03/entering-public-beta.html
-* http://venturebeat.com/2015/11/27/5-open-source-alternatives-to-slack/
-* https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html
-* https://github.com/riolet/ritchie
-* https://github.com/zero-db/zerodb
-* https://github.com/ksimka/go-is-not-good
+* [GitHub - pybee/paying-the-piper: A project for discussing ways to fund open source development.](https://github.com/pybee/paying-the-piper)
+* [The Hitchhikerâ€™s Guide to Python! â€” The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+* [Profiling Python using cProfile: a concrete case | Julien Danjou](https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara)
+* [Django Abstract Base Class - Model Inheritance - GoDjango](https://godjango.com/blog/django-abstract-base-class-model-inheritance/)
+* [Django Under The Hood, Amsterdam | Opbeat](https://opbeat.com/events/duth/)
+* [Optimizing slow Django REST Framework performance](https://ses4j.github.io/2015/11/23/optimizing-slow-django-rest-framework-performance/)
+* [GitHub - m0nologuer/AI-reading-list: Up to date list of the most interesting papers in AI](https://github.com/m0nologuer/ai-reading-list)
+* [GitHub - ruma/ruma: A Matrix client-server API written in Rust.](https://github.com/ruma/ruma)
+* [GitHub - JFreegman/rustybot: A Tox trivia bot written in Rust](https://github.com/jfreegman/rustybot)
+* [GitHub - pressly/sup: Super simple deployment tool - just Unix - think of it like 'make' for a network of servers](https://github.com/pressly/sup)
+* [GitHub - karpathy/arxiv-sanity-preserver: Web interface for browsing, search and filtering recent arxiv submissions](https://github.com/karpathy/arxiv-sanity-preserver)
+* [GitHub - maruel/panicparse: Crash your app in style (Golang)](https://github.com/maruel/panicparse)
+* [GitHub - iondbproject/iondb: IonDB, a key-value datastore for resource constrained systems.](https://github.com/iondbproject/iondb)
+* [How to be like Steve Ballmer â€” Packt Publishing â€” Medium](https://medium.com/packt-publishing/how-to-be-like-steve-ballmer-cf4c9803d74c#.g45vemxh6)
+* [Why we picked Clojure â€” Medium](https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83#.jmodn3iul)
+* [Entering Public Beta - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/2015/12/03/entering-public-beta.html)
+* [5 open-source alternatives to Slack | VentureBeat | Cloud | by Jordan Novet](http://venturebeat.com/2015/11/27/5-open-source-alternatives-to-slack/)
+* [Elixir is not Ruby - Clark Kampfe](https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
+* [GitHub - zero-db/zerodb: ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.](https://github.com/zero-db/zerodb)
+* [GitHub - ksimka/go-is-not-good: A curated list of articles complaining that go (golang) isn't good enough](https://github.com/ksimka/go-is-not-good)
 
 ##Clojure
 * [GitHub - tpope/vim-fireplace: fireplace.vim: Clojure REPL support](https://github.com/tpope/vim-fireplace)
