@@ -60,6 +60,7 @@
 ##Clojure
 * [GitHub - tpope/vim-fireplace: fireplace.vim: Clojure REPL support](https://github.com/tpope/vim-fireplace)
 * [GitHub - clojure-emacs/refactor-nrepl: nREPL middleware to support refactorings in an editor agnostic way](https://github.com/clojure-emacs/refactor-nrepl)
+* [GitHub - clojure-emacs/clj-refactor.el: A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
 
 ##VimScript
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
