@@ -21,6 +21,8 @@
 * [GitHub - feross/magickeyboard.io: Ultimate hacker keyboard](https://github.com/feross/magickeyboard.io)
 * [GitHub - codrops/MultiLevelMenu: A simple menu with multiple levels and an optional breadcrumb navigation and back button.](https://github.com/codrops/multilevelmenu)
 * [GitHub - facebook/mention-bot: Automatically mention potential reviewers on pull requests.](https://github.com/facebook/mention-bot)
+* [Write An Excellent Programming Blog](https://emptysqua.re/blog/write-an-excellent-programming-blog/)
+* [Resources For Writing About Programming](https://emptysqua.re/blog/resources-for-writing-about-programming/)
 
 ##Clojure
 * [GitHub - tpope/vim-fireplace: fireplace.vim: Clojure REPL support](https://github.com/tpope/vim-fireplace)
