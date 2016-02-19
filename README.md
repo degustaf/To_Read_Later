@@ -31,6 +31,7 @@
 * [Why we picked Clojure - Medium](https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83#.jmodn3iul)
 * [GitHub - cfelde/cljs4excel: Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [GitHub - ghadishayban/pex: LPEG for Clojure](https://github.com/ghadishayban/pex)
+* [GitHub - khinsen/monads-in-clojure: Konrad Hinsen's OnClojure.com tutorial](https://github.com/khinsen/monads-in-clojure)
 
 ##Go
 * [GitHub - pressly/sup: Super simple deployment tool - just Unix - think of it like 'make' for a network of servers](https://github.com/pressly/sup)
